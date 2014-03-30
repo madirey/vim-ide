@@ -6,7 +6,8 @@
                         /____/|/
         • Sublime is a great editor.
         • But it's not everywhere.
-        • And it's not mature.
+        • And it's not as mature.
+        • If you really prefer a GUI, Sublime is nice.
 
 
 

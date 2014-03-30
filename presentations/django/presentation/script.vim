@@ -48,4 +48,9 @@ set filetype=txt
 
 
 
+b 9
+set filetype=txt
+
+
+
 b 1
