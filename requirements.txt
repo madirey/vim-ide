@@ -1,0 +1,7 @@
+Django==1.6.2
+enum34==0.9.23
+-e git+git@github.com:mattcaldwell/frosted.git@978dde9f8ac0f29429c639cfb37ca6a86d760dfc#egg=frosted-origin/develop
+ipaddress==1.0.6
+pies==2.6.1
+pies2overrides==2.6.1
+wsgiref==0.1.2
