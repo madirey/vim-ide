@@ -53,4 +53,9 @@ set filetype=txt
 
 
 
+b 10
+set filetype=txt
+
+
+
 b 1
