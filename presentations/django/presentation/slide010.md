@@ -1,14 +1,12 @@
-          ___________ ___
-         /_  __/ ___// (_)___ ___  ___
-          / /  \__ \/ / / __ `__ \/ _ \
-         / /  ___/ / / / / / / / /  __/
-        /_/  /____/_/_/_/ /_/ /_/\___/
-
-        • What is TSlime?
-        • Why?  (Because ":!python manage.py test" sucks)
-        • Git commands (status, blame, commit, etc...)
-        • Run tests <leader>t
-        • Zoom tmux pane <ctrl-a>z
+            ______    ___ __  _                ______          __
+           / ____/___/ (_) /_(_)___  ____ _   / ____/___  ____/ /__
+          / __/ / __  / / __/ / __ \/ __ `/  / /   / __ \/ __  / _ \
+         / /___/ /_/ / / /_/ / / / / /_/ /  / /___/ /_/ / /_/ /  __/
+        /_____/\__,_/_/\__/_/_/ /_/\__, /   \____/\____/\__,_/\___/
+                                  /____/
+        • Jump-to-definition <leader>j
+        • Code completion .<tab>
+        • Snippets <snippet><tab>
 
 
 
