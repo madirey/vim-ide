@@ -10,9 +10,11 @@
         / /_/ / / / (__  )  / /_/ / /  / /__/ /_/ / / / /  __/  / /_/ / /  / /_ /_/
         \__/_/ /_/_/____/   \__,_/_/   \___/\__,_/_/ /_/\___/   \__,_/_/   \__/(_)
 
-        • Gandalf can help... here's his number (202-867-5309)
+        • Ask Gandalf
         • http://vimcasts.org/ !!!
         • https://github.com/mattcaldwell/dotfiles
+        • https://github.com/spf13/spf13-vim
+        • tons of other resources...
 
 
 

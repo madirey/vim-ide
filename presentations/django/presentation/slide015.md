@@ -13,6 +13,7 @@
         • compass: http://compass-style.org/
         • html5 boilerplate: https://github.com/h5bp/html5-boilerplate
         • vimdeck: https://github.com/tybenz/vimdeck
+        • Tim Pope: https://github.com/tpope/
         • All the folks at Celerity: http://www.celerity.com/
         • And more...
 

@@ -8,6 +8,7 @@
         • But it's not everywhere.
         • And it's not as mature.
         • If you really prefer a GUI, Sublime is nice.
+        • But... by the time you've reached for your mouse, my work is already done. ;)
 
 
 

@@ -5,7 +5,7 @@
         \____/\__/_/ /_/\___/_/     /_/  \__,_/_/ /_/    |___/_/_/ /_/ /_/_/ /_/ /_/\__, /  /____/\__/\__,_/_/ /_/
                                                                                    /____/
         • 'gx' to open links
-        • what else?
+        • vim-surround (e.g. change surrounding -- cs<old><new>)
 
 
 
