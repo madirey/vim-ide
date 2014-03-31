@@ -20,6 +20,10 @@
         • Django template jump-to-definition and autcompletion.
         • More tslime macros.
         • Expand tslime macros across windows (tabs), rather than just panes.
+        • Command-line pull requests from vim
+        • Github comments from within vim
+        • Vim mail client
+        • Vim time-tracking
         • Package up for all to use / experiment with / make fun of
 
 

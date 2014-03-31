@@ -19,6 +19,7 @@
 
         • 'gx' to open links
         • vim-surround (e.g. change surrounding -- cs<old><new>)
+        • easymotion
 
 
 
