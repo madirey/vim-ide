@@ -20,6 +20,7 @@
         • 'gx' to open links
         • vim-surround (e.g. change surrounding -- cs<old><new>)
         • easymotion
+        • ctrl-p ... <leader>f
 
 
 

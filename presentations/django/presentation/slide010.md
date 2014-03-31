@@ -19,7 +19,8 @@
 
         • Jump-to-definition <leader>j
         • Code completion .<tab>
-        • Snippets <snippet><tab>
+        • Snippets <snippet><tab> (wip)
+        • vim-surround (wip)
 
 
 
