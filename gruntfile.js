@@ -12,7 +12,7 @@ module.exports = function(grunt) {
       watch: {
          options: { livereload: true },
          sass: {
-            files: ['todo/static/components/sass/*.scss'],
+            files: ['todo/static/css/src/*.scss'],
             tasks: ['compass:dev']
          }, //sass
          html: {
