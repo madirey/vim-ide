@@ -7,6 +7,7 @@
         • Keep all projects independently organized.
         • I don't have to remember anything.
         • Can run Django server and grunt watch tasks, etc automagically...
+        • Can launch everything within virtual environment.
 
 
 

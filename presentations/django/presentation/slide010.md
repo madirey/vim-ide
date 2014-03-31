@@ -1,19 +1,14 @@
-          ________                __                        ______
-         /_  __/ /_  ____ _____  / /__   __  ______  __  __/ / / /
-          / / / __ \/ __ `/ __ \/ //_/  / / / / __ \/ / / / / / /
-         / / / / / / /_/ / / / / ,<    / /_/ / /_/ / /_/ /_/_/_/
-        /_/ /_/ /_/\__,_/_/ /_/_/|_|   \__, /\____/\__,_(_)_)_)
-                                      /____/
-                ____              __  _             ___
-         ____  / __ \__ _____ ___/ /_(_)__  ___  _____ \
-        /___/ / /_/ / // / -_)_-< __/ / _ \/ _ \(_-</__/
-              \___\_\_,_/\__/___\__/_/\___/_//_/___(_)
+          ___________ ___
+         /_  __/ ___// (_)___ ___  ___
+          / /  \__ \/ / / __ `__ \/ _ \
+         / /  ___/ / / / / / / / /  __/
+        /_/  /____/_/_/_/ /_/ /_/\___/
 
-        • Matt Caldwell
-        • Facebook: matt.caldwell
-        • Github: mattcaldwell
-        • LinkedIn: matthewtcaldwell
-        • Twitter: @mattcaldwell
+        • What is TSlime?
+        • Why?  (Because ":!python manage.py test" sucks)
+        • Git commands (status, blame, commit, etc...)
+        • Run tests <leader>t
+        • Zoom tmux pane <ctrl-a>z
 
 
 
